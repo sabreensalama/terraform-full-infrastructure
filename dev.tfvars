@@ -1,0 +1,10 @@
+cidr = "10.0.0.0/16" 
+tag = "Cloud_Vpc"
+regionv = "us-west-2"
+public_subnet1="10.0.11.0/24"
+public_subnet2="10.0.12.0/24"
+azs1="us-west-2a"
+azs2="us-west-2b"
+subnet_private1="10.0.1.0/24"
+subnet_private2= "10.0.2.0/24"
+

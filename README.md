@@ -1,1 +1,1 @@
-# terraform-full-infrastructure
+# terraform-lab1
